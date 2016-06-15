@@ -52,8 +52,10 @@ header .link-box {
 }
 
 button {
-  margin: 1rem auto;
+  margin: 1rem;
   display: block;
+  border-radius: 15%;
+  border: none;
 }
 
 .info-box-button-submit {
