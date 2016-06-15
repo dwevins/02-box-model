@@ -4,17 +4,19 @@ html {
 
 *, *::before, *::after {
   box-sizing: inherit;
+  border: #bb7614 solid 1px;
 }
 
 .info-box-section {
-
+  width: 100%
 }
 
 .info-box {
   display: inline-block;
+  width: 30%;
 }
 .picture-box {
-   width: 300px;
+   width: 100%;
 }
 
 .img {
