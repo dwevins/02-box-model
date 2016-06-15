@@ -16,6 +16,7 @@ html {
 .info-box {
   display: inline-block;
   width: 30%;
+  background-color: #b4b8b6;
 }
 .picture-box {
    width: 100%;
@@ -23,21 +24,27 @@ html {
 
 .img {
   width: 100%;
+  background-color: white;
 }
 
 .text-box{
   width: 100%;
-  background-color: #b4b8b6
 }
 
 .button-box {
-
+  width: 100%;
 }
 
 .submit-button {
-
+  display: inline-block;
+  float: left;
+  background-color: blue;
+  color: white;
 }
 
 .cancel-button{
-
+  display: inline-block;
+  float: right;
+  background-color: red;
+  color: white;
 }
