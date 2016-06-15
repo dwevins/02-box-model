@@ -9,6 +9,8 @@ body {
 
 header {
   background: #c9adee;
+  width: 100%;
+  margin: 0 0;
 }
 
 header .title-box {
