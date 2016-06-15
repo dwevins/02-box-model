@@ -63,16 +63,19 @@ header .link-box {
 button {
   margin: 1rem;
   display: block;
-  border-radius: 15%;
+  border-radius: 0.5rem;
   border: none;
+  color: white;
+  font-size: 1.2rem;
+  text-transform: capitalize;
 }
 
 .info-box-button-submit {
-  background: #cc1bc6;
+  background: blue;
   float: left;
 }
 
 .info-box-button-cancel{
-  background: #30cf4e;
+  background: red;
   float: right;
 }
