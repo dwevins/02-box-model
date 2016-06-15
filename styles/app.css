@@ -17,6 +17,7 @@ html {
   display: inline-block;
   width: 30%;
   background-color: #b4b8b6;
+  overflow: auto;
 }
 .picture-box {
    width: 100%;
@@ -29,10 +30,7 @@ html {
 
 .text-box{
   width: 100%;
-}
-
-.button-box {
-  width: 100%;
+  font-family: sans-serif;
 }
 
 .submit-button {
@@ -40,6 +38,9 @@ html {
   float: left;
   background-color: blue;
   color: white;
+  border-radius: 10%;
+  margin-left: 5%;
+  padding: 5%;
 }
 
 .cancel-button{
@@ -47,4 +48,7 @@ html {
   float: right;
   background-color: red;
   color: white;
+  border-radius: 10%;
+  margin-right: 5%;
+  padding: 5%;
 }
