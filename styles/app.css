@@ -15,10 +15,12 @@ header {
 
 header .title-box {
   background: #47abc2;
+  float: left;
 }
 
 header .link-box {
   background: #1e13ad;
+  float: right;
 }
 
 .link-box a {
