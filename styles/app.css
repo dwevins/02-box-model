@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  color: transparent;
 }
 
 body {
@@ -24,11 +23,12 @@ header .link-box {
   background: #1e13ad;
   width: 10rem;
   float: right;
+  overflow: auto;
 }
 
 .link-box a {
   background: #837854;
-  float: right;
+  text-align: justify;
 }
 
 .info-box-container {
