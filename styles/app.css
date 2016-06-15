@@ -45,7 +45,7 @@ header .link-box {
 .info-box {
   width: calc(100% / 3 - 2rem);
   min-width: 15rem;
-  margin: 1rem;
+  margin: 1rem 1rem;
   overflow: auto;
   float: left;
 }
@@ -53,6 +53,7 @@ header .link-box {
 .info-box img {
   width: 100%;
   float: left;
+  background: #c2c2c2;
 }
 
 .info-box-divider {
