@@ -14,10 +14,14 @@ html {
   display: inline-block;
 }
 .picture-box {
-   width: auto
+   width: 300px;
+}
+
+.img {
+  width: 100%;
 }
 
 .text-box{
-  width: 50%;
+  width: 100%;
   background-color: #b4b8b6
 }
