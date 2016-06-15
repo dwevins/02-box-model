@@ -10,17 +10,15 @@ body {
 header {
   background: #c9adee;
   width: 100%;
-  margin: 0 0;
+  margin: 1rem auto;
 }
 
 header .title-box {
   background: #47abc2;
-  float: left;
 }
 
 header .link-box {
   background: #1e13ad;
-  float: right;
 }
 
 .link-box a {
@@ -37,6 +35,7 @@ header .link-box {
 .info-box {
   background: #b90f42;
   width: calc(100% / 3);
+  overflow: auto;
 }
 
 .info-box img {
@@ -47,6 +46,7 @@ header .link-box {
 
 button {
   margin: 1rem auto;
+  display: block;
 }
 
 .info-box-button-submit {
