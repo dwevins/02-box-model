@@ -11,18 +11,24 @@ header {
   background: #c9adee;
   width: 100%;
   margin: 1rem auto;
+  overflow: auto;
 }
 
 header .title-box {
   background: #47abc2;
+  width: 10rem;
+  float: left;
 }
 
 header .link-box {
   background: #1e13ad;
+  width: 10rem;
+  float: right;
 }
 
 .link-box a {
   background: #837854;
+  float: right;
 }
 
 .info-box-container {
