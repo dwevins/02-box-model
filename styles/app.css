@@ -45,14 +45,16 @@ header .link-box {
   float: left;
 }
 
-.info-box-buton-box {
-  background: #04eed5;
+button {
+  margin: 1rem auto;
 }
 
 .info-box-button-submit {
   background: #cc1bc6;
+  float: left;
 }
 
 .info-box-button-cancel{
   background: #30cf4e;
+  float: right;
 }
