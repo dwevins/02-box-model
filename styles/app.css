@@ -6,12 +6,14 @@ html {
   box-sizing: inherit;
 }
 
-.picture-box-section {
+.info-box-section {
 
 }
 
-.picture-box {
+.info-box {
   display: inline-block;
+}
+.picture-box {
    width: auto
 }
 
