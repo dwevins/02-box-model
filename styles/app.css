@@ -15,7 +15,7 @@ html {
 
 .info-box {
   display: inline-block;
-  width: 30%;
+  width: 33%;
   background-color: #b4b8b6;
   overflow: auto;
 }
@@ -33,6 +33,18 @@ html {
   font-family: sans-serif;
 }
 
+.text-header {
+
+}
+
+.text-content {
+
+}
+
+.divider {
+
+}
+
 .submit-button {
   display: inline-block;
   float: left;
@@ -40,7 +52,7 @@ html {
   color: white;
   border-radius: 10%;
   margin-left: 5%;
-  padding: 5%;
+  padding: 3%;
 }
 
 .cancel-button{
@@ -50,5 +62,5 @@ html {
   color: white;
   border-radius: 10%;
   margin-right: 5%;
-  padding: 5%;
+  padding: 3%;
 }
