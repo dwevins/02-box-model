@@ -28,7 +28,7 @@ html {
 }
 
 .text-box{
-  width: 100%;
+  flex: 1 1 auto;
   font-family: sans-serif;
   box-shadow: 0px 2px 2px #888888;
 }
