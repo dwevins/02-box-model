@@ -10,7 +10,7 @@ body {
 header {
   width: 100%;
   overflow: auto;
-  background: #249883;
+  background: #092d63;
   color: white;
 }
 
@@ -48,6 +48,8 @@ header .link-box {
   margin: 1rem 1rem;
   overflow: auto;
   float: left;
+  border: 0.1rem solid #c2c2c2;
+  text-align: center;
 }
 
 .info-box img {
