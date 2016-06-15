@@ -42,6 +42,10 @@ html {
 }
 
 .divider {
+  border-bottom-width: 0.1rem;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  width: 90%;
 
 }
 
