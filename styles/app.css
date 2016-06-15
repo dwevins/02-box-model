@@ -11,5 +11,11 @@ html {
 }
 
 .picture-box {
+  display: inline-block;
+   width: auto
+}
 
+.text-box{
+  width: 50%;
+  background-color: #b4b8b6
 }
