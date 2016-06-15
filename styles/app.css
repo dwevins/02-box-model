@@ -5,39 +5,49 @@
 
 body {
   background: #9dfe01;
+  margin: 0;
 }
 
 header {
-  background: #c9adee;
   width: 100%;
-  margin: 0.5rem auto;
   overflow: auto;
+  background: #249883;
+  color: white;
 }
 
 header .title-box {
-  background: #47abc2;
-  width: 10rem;
+  width: 50%;
   float: left;
-  font-size: 1.1rem;
+  font-size: 1.4rem
 }
 
 header .link-box {
-  background: #1e13ad;
-  width: 10rem;
-  float: right;
+  width: 50%;
   overflow: auto;
+  font-size: 1.1rem;
+  padding: 0.54rem;
+  vertical-align: middle;
 }
 
 .link-box a {
   background: #837854;
-  text-align: justify;
+  float: right;
+  margin: 1rem;
+  text-decoration: none;
+  color: white;
 }
 
+/*
+.link-box a:visited, .link-box a:link, .link-box a:hover, .link-box a:active{
+  text-decoration: none;
+  color: white;
+}
+*/
 .info-box-container {
   background: #0e528e;
   overflow: auto;
   max-width: 60rem;
-  margin: 0 auto;
+  margin: 1rem auto;
 }
 
 .info-box {
