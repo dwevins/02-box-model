@@ -4,7 +4,6 @@
 }
 
 body {
-  background: #9dfe01;
   margin: 0;
 }
 
@@ -18,7 +17,8 @@ header {
 header .title-box {
   width: 50%;
   float: left;
-  font-size: 1.4rem
+  font-size: 1.4rem;
+  padding-left: 0.54rem;
 }
 
 header .link-box {
@@ -30,28 +30,19 @@ header .link-box {
 }
 
 .link-box a {
-  background: #837854;
   float: right;
   margin: 1rem;
   text-decoration: none;
   color: white;
 }
 
-/*
-.link-box a:visited, .link-box a:link, .link-box a:hover, .link-box a:active{
-  text-decoration: none;
-  color: white;
-}
-*/
 .info-box-container {
-  background: #0e528e;
   overflow: auto;
   max-width: 60rem;
   margin: 1rem auto;
 }
 
 .info-box {
-  background: #b90f42;
   width: calc(100% / 3 - 2rem);
   min-width: 15rem;
   margin: 1rem;
@@ -61,7 +52,6 @@ header .link-box {
 
 .info-box img {
   width: 100%;
-  background: #23bbd9;
   float: left;
 }
 
