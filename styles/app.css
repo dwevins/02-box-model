@@ -27,14 +27,16 @@ header .link-box {
 
 .info-box-container {
   background: #0e528e;
+  overflow: auto;
 }
 
 .info-box {
   background: #b90f42;
+  width: calc(100% / 3);
 }
 
 .info-box img {
-
+  width: 100%;
 }
 
 .info-box-buton-box {
