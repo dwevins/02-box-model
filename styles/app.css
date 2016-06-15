@@ -28,6 +28,8 @@ header .link-box {
 .info-box-container {
   background: #0e528e;
   overflow: auto;
+  max-width: 60rem;
+  margin: 0 auto;
 }
 
 .info-box {
@@ -37,6 +39,8 @@ header .link-box {
 
 .info-box img {
   width: 100%;
+  background: #23bbd9;
+  float: left;
 }
 
 .info-box-buton-box {
