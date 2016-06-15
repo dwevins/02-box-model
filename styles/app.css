@@ -4,31 +4,31 @@
 }
 
 body {
-
+  color: #9dfe01;
 }
 
 header {
-
+  color: #c9adee;
 }
 
 header .title-box {
-
+  color: #47abc2;
 }
 
 header .link-box {
-
+  color: #1e13ad;
 }
 
 .link-box a {
-
+  color: #837854;
 }
 
 .info-box-container {
-
+  color: #0e528e;
 }
 
 .info-box {
-
+  color: #b90f42;
 }
 
 .info-box img {
@@ -36,11 +36,13 @@ header .link-box {
 }
 
 .info-box-buton-box {
-
+  color: #04eed5;
 }
 
 .info-box-button-submit {
-
+  color: #cc1bc6;
 }
 
-.info-box-button-cancel
+.info-box-button-cancel{
+  color: #30cf4e;
+}
