@@ -50,6 +50,7 @@ header .link-box {
   float: left;
   border: 0.1rem solid #c2c2c2;
   text-align: center;
+  box-shadow: 0rem 0rem 0.4rem 0.1rem #c2c2c2
 }
 
 .info-box img {
@@ -71,6 +72,7 @@ button {
   color: white;
   font-size: 1.2rem;
   text-transform: capitalize;
+  padding: 0.4rem;
 }
 
 .info-box-button-submit {
